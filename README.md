@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Cássio Candido Camargo, tenho 34 anos e sou natural do Mato Grosso. Concluí o meu superior Análise e Desenvolvimento de Sistemas na UNIGRAN. Sou apaixonado por tecnologia e sigo estudando para ser um profissional cada vez melhor. 
+Me chamo Cássio Candido Camargo, sou natural do Mato Grosso. Concluí o meu superior Análise e Desenvolvimento de Sistemas na UNIGRAN. Sou apaixonado por tecnologia e sigo estudando para ser um profissional cada vez melhor. 
 
 <p align="left">    
     <a href="https://github.com/Cassiokmargo?tab=followers">
